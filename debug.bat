@@ -1,0 +1,1 @@
+"C:\Program_Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" "J:\Scripts\Argos\upload_to_gcs.py"
